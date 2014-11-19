@@ -1,6 +1,6 @@
 == README
 
-This is the first application fo the RUBY
+#:This is the first application fo the RUBY
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
